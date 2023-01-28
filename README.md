@@ -1,1 +1,1 @@
-# week_19
+>Practice on classes and static methods
